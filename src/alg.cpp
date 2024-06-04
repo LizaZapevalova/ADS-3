@@ -2,7 +2,7 @@
 int cbinsearch(int *arr, int size, int value) {
   //  поместить сюда реализацию алгоритма
   return 0; // если ничего не найдено
-  int cbinsearch(int *arr, int size, int value) {
+  int cbinsearch(int* arr, int size, int value) {
   int cnt = 0;
   int lft = 0;
   int rght = size - 1;
